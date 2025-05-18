@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Marcos
+- Certification: Coursera Front End Developer Course
 
 ## Instructions
 Please replace the placeholders with your details:
